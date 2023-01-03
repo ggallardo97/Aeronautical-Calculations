@@ -1,1 +1,1 @@
-# Aeronautical-Calculations
+# Simple Aeronautical Calculations
