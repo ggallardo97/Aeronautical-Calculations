@@ -8,7 +8,7 @@ Tomé un curso introductorio a la ingeniería aeroespacial en una plataforma de 
 
 ## Instalación
 
-Inicialmente, debes tener instalado algún compilador para C++, recomiendo Dev-C++:
+Inicialmente, debes tener instalado algún compilador para C++:
 ```bash
   git clone Aeronautical-Calculations
 ```
