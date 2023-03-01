@@ -1,4 +1,4 @@
-# Simples cálculos aeronáuticos
+# Simples cálculos aeronáuticos (para Windows)
 
 Tomé un curso introductorio a la ingeniería aeroespacial en una plataforma de enseñanza online y decidí crear un pequeño programa en C++ que me permitiese agilizar algunos cálculos requeridos para los ejercicios. También fue sugerido como ejercicio por parte del docente.
 
