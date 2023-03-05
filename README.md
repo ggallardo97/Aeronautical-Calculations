@@ -10,7 +10,7 @@ Tomé un curso introductorio a la ingeniería aeroespacial en una plataforma de 
 
 Inicialmente, debes tener instalado algún compilador para C++:
 ```bash
-  git clone Aeronautical-Calculations
+  git clone https://github.com/ggallardo97/Aeronautical-Calculations
 ```
     
 ## Uso
